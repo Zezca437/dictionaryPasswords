@@ -1,3 +1,4 @@
+Epuser:userEp
 None:None
 admin:admin
 admin:LTEcpe
@@ -7,7 +8,6 @@ null:null
 user:user
 blank:admin
 :admin
-Epuser:userEp
 leave it blank:admin
 none:admin
 none:none
