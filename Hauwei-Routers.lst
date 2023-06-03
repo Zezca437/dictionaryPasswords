@@ -1,3 +1,4 @@
+Epuser:userEp
 None:None
 admin:admin
 admin:LTEcpe
@@ -16,7 +17,6 @@ Admin:admin
 admin:
 Admin:Admin
 admin:2008x2BJAOTOtJK1
-Epuser:userEp
 Afaq_shamel:stccpe_2007
 root:admin
 admin:password
